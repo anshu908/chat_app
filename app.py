@@ -41,7 +41,7 @@ ALLOWED_CHAT_MEDIA_EXTENSIONS = {
 
 
 # ImgBB API Key
-IMGBB_API_KEY = 'IMGBB_API_KEY'
+IMGBB_API_KEY = '6654d803dfda9a1777d8137ad566209e'
 
 socketio = SocketIO(app, cors_allowed_origins="*", async_mode='gevent')
 
